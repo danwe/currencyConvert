@@ -12,5 +12,7 @@ Run `npx json-server --watch db.json --port 3000` for a dev server. Navigate to 
 
 json server save history convert currency
 
+## Change Api test
+becousw the api call was empty i create another api and you can to change base currency
 
-
+`https://v6.exchangerate-api.com/v6/95539951db2702fc3a8b2fa7/latest/EUR` 
